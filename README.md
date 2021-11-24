@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gustavofcunha
-- 🌱 I’m currently learning data science and machine learning
+- 🌱 Undergraduate student in Information Systems at DCC/UFMG
 - 💼 I’m working on SINDH/DCC/UFMG and somes personals projects
 - 📫 You can reach me in gustavocunha912@gmail.com
 
