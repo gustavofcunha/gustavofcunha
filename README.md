@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavofcunha
 - 🌱 Undergraduate student in Information Systems at DCC/UFMG
-- 💼 I’m working on SINDH/DCC/UFMG and somes personals projects
+- 💼 I’m a intern data analyst at Banco Mercantil do Brasil
 - 📫 You can reach me in gustavocunha912@gmail.com
 
 <!---
