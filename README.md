@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavofcunha
-- 🌱 Undergraduate student in Information Systems at DCC/UFMG
-- 💼 I’m a intern in data analysis at Banco Mercantil do Brasil
-- 📫 You can reach me in gustavocunha912@gmail.com
+- 🌱 Undergrad student in Information Systems at DCC/UFMG
+- 💼 I’m a data analytics intern at Banco Mercantil do Brasil
+- 📫 You can reach me in gustavocunha@dcc.ufmg.br
 
 <!---
 gustavofcunha/gustavofcunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
