@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavofcunha
 - 🌱 Undergrad student in Information Systems at DCC/UFMG
-- 💼 I’m a data analytics intern at Banco Mercantil do Brasil
+- 💼 Intern at Banco Mercantil
 - 📫 You can reach me in gustavocunha@dcc.ufmg.br
 
 <!---
