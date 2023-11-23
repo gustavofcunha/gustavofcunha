@@ -9,8 +9,8 @@
 
 ## 🌟 My GitHub Stats
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofcunha&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofcunha&layout=compact)
