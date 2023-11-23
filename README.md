@@ -6,11 +6,12 @@
 - 👔 Assistant at Banco Mercantil.
 - 📧 Reach me at gustavocunha@dcc.ufmg.br.
 
-
-## 🌟 My GitHub Stats
-
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavofcunha&show_icons=true&theme=radical)
-
 ## 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofcunha&layout=compact)
+
+```plaintext
+   _______________
+  /             / |
+ / Code is Art /__|
+|_____________|
