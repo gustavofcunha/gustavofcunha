@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Undergraduate student in Information Systems at DCC/UFMG.
-- 👔 Assistant at Banco Mercantil.
+- 👔 Data Analyst @ Banco Mercantil.
 - 📧 Reach me at gustavocunha@dcc.ufmg.br.
 
 ## 📊 Most Used Languages
